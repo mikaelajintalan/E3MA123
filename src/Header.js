@@ -4,7 +4,7 @@ const Header = (props) => {
     return (
         <header>
             <h1 className="title">SAINTWATCHING</h1>
-            <img src={logo} className="Saint" alt="logo" />
+            <img src={logo} className="logo" alt="logo" />
             <nav>
                 <ul>
                     <li>HOME</li>
