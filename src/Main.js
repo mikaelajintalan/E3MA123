@@ -14,14 +14,10 @@ const Main = (props) => {
             </article>
             <aside>
                 <h2>FAVOURITE PHOTOS</h2>
-                <div>
                 <img src={archangel} className="fav-pic" alt="st michael" />
                 <img src={mamamary} className="fav-pic" alt="virgin mary" />
-                </div>
-                <div>
                 <img src={sanjose} className="fav-pic" alt="st joseph" />
                 <img src={divinechild} className="fav-pic" alt="santo nino" />
-                </div>
             </aside>
         </main>
     )
