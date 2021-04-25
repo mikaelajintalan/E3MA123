@@ -8,9 +8,9 @@ function App  ()  {
 
   return (
     <div className="container">
-      <Header />
-      <Main />
-      <Footer />
+      <Header /> {/** faye **/}
+      <Main />   {/** mika **/}
+      <Footer /> {/** aldrin **/}   
     </div>
   );
 }
